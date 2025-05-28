@@ -7,4 +7,4 @@ statsmodels == 0.14.4
 pymannkendall == 1.4.3
 scikit-learn == 1.6.1
 seaborn == 0.13.2
-yfinance == 0.2.0
+yfinance == 0.2.61
